@@ -1,2 +1,4 @@
-#!/bin/bash
-pidof bash
+#!/usr/bin/env bash
+# Displays own PID.
+
+echo $$
